@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Tensai",
+  title: "Tensai Kit",
   tagline: "Ai Agent Kit",
   // favicon: "img/favicon.ico",
   future: {
@@ -70,7 +70,7 @@ const config = {
         //   alt: "tensai logo",
         //   src: "img/logo.png",
         // },
-        copyright: `Copyright © ${new Date().getFullYear()} Tensai`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tensai Kit`,
       },
       prism: {
         theme: prismThemes.github,
