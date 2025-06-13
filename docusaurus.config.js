@@ -62,6 +62,11 @@ const config = {
             position: "left",
             label: "Explore",
           },
+          {
+            href: "https://x.com/",
+            label: "Twitter",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -70,6 +75,7 @@ const config = {
         //   alt: "tensai logo",
         //   src: "img/logo.png",
         // },
+        // links: ,
         copyright: `Copyright © ${new Date().getFullYear()} Tensai Kit`,
       },
       prism: {
